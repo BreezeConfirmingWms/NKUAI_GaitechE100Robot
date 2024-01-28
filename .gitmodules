@@ -1,0 +1,6 @@
+[submodule "gaitech_edu"]
+	path = gaitech_edu
+	url = https://github.com/aniskoubaa/gaitech_edu.git
+[submodule "RIA-E100"]
+	path = RIA-E100
+	url = https://github.com/gaitech-robotics/RIA-E100.git
